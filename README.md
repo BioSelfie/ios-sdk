@@ -1,1 +1,1 @@
-# ios-sdk
+# BioSelfie | iOS SDK
